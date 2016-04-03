@@ -1,0 +1,7 @@
+{
+  "my:coffeescript": {
+    "git": "git@github.com:GeoffreyBooth/meteor.git",
+    "branch": "coffeescript-backticks-ecmascript",
+    "path": "packages/coffeescript"
+  }
+}
