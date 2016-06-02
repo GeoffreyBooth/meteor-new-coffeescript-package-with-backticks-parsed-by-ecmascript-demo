@@ -1,6 +1,6 @@
 ## Demo of new Meteor `coffeescript` package where code in backticks is parsed by `ecmascript` pacakge
 
-This repo is a working demo of the updated `coffeescript` core package submitted in (this pull request)[https://github.com/meteor/meteor/pull/6691]. Take a look at `client/main.coffee` and see the `import` statements in backticks. With the new `coffeescript` package, these imports work.
+This repo is a working demo of the updated `coffeescript` core package submitted in [this pull request](https://github.com/meteor/meteor/pull/6691). Take a look at `client/main.coffee` and see the `import` statements in backticks. With the new `coffeescript` package, these imports work.
 
 ### Quickstart
 
